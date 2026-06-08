@@ -2,7 +2,9 @@
 
 An MCP server that audits your AWS EC2 infrastructure for compliance and security issues, and generates professional client-ready reports in Markdown, HTML, or PDF.
 
-![AWS Audit Report Example](report-example.png)
+[![AWS Audit Report Example](report-example.png)](aws-audit-report.pdf)
+
+> [View sample report (PDF)](aws-audit-report.pdf)
 
 ## Quick Start
 
